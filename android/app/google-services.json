@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154308866172",
+    "project_id": "chirst-world",
+    "storage_bucket": "chirst-world.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154308866172:android:3ddd45041f1feac94219f9",
+        "android_client_info": {
+          "package_name": "com.christworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASbdrheSCa68d2XWCpQzIr0WjQW-qXmcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
